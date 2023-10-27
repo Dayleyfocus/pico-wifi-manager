@@ -7,8 +7,8 @@ import board
 
 # List of network names and passwords
 networks = [
-    ('Network Name 1', 'Network Name Password 1'),
-    ('Network Name 1', 'Network Name Password 2'),
+    ('Network Name 1', 'Network Password 1'),
+    ('Network Name 1', 'Network Password 2'),
     # Add more networks as needed
 ]
 
